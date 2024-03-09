@@ -6,6 +6,6 @@ This C language self-checkout machine program replicates the functionality of a 
 
 ## Application
 #### Shop Menu
-![img1](Assets/Img1.PNG)
+![img1](Assets/Img1.png)
 #### Final Bag
-![img1](Assets/Img2.PNG)
+![img1](Assets/Img2.png)
